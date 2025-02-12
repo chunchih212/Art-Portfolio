@@ -1,0 +1,17 @@
+# Jekyll 產生的檔案
+_site/
+.jekyll-cache/
+.jekyll-metadata
+
+# Bundler 相關檔案
+.bundle/
+Gemfile.lock
+
+# Node.js 相關檔案（如果有用）
+node_modules/
+
+# Sass 快取
+.sass-cache/
+
+# VS Code 設定（如果你用 VS Code）
+.vscode/

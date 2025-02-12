@@ -1,3 +1,6 @@
-title: "My Animation and 3D Portfolio"
+title: "我的作品集"
 description: "展示我的 spine 動畫和 3D 渲染作品"
 theme: jekyll-theme-cayman
+url: "https://chunchih212.github.io"
+exclude:
+  - _site
